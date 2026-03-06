@@ -1,4 +1,4 @@
-### TASK 1
+# TASK 1
 # Text Summarization Tool using NLP
 
 ## Overview
@@ -58,7 +58,7 @@ The system successfully generates concise summaries from longer texts using NLP 
 
 
 
-### TASK 2
+# TASK 2
 # Speech Recognition System
 
 ## Overview
@@ -109,7 +109,7 @@ The system successfully transcribes spoken words into text, demonstrating the ba
 
 
 
-### TASK 3
+# TASK 3
 # Neural Style Transfer
 
 ## Overview
@@ -157,7 +157,7 @@ The notebook displays:
 * Generated Styled Image
 
 
-### TASK 4
+# TASK 4
 # Generative Text Model
 
 ## Overview
