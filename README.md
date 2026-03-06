@@ -37,6 +37,10 @@ This project converts spoken audio into text using Python.
 3. A pre-trained speech model converts speech into text.
 4. The recognized text is printed as output.
 
+## Example Output
+Speak something...
+You said: Hello how are you
+
 
 
 ### TASK 3
@@ -87,6 +91,3 @@ The notebook displays:
 * Generated Styled Image
 
 
-## Example Output
-Speak something...
-You said: Hello how are you
